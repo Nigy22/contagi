@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nova.Nigy.4j.contagi", "Nova.Nigy.4j.contagi\Nova.Nigy.4j.contagi.csproj", "{962359F4-A6CE-433D-B15A-3B46B7624C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962359F4-A6CE-433D-B15A-3B46B7624C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962359F4-A6CE-433D-B15A-3B46B7624C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962359F4-A6CE-433D-B15A-3B46B7624C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962359F4-A6CE-433D-B15A-3B46B7624C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F8F99E2-A469-4E7F-A6FC-F7C450853626}
+	EndGlobalSection
+EndGlobal
